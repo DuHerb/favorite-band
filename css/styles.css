@@ -7,3 +7,29 @@ header {
   margin: 5px 20px;
   background-color: lightblue;
 }
+
+.band-pic {
+  float: left;
+  margin: 5px 20px;
+}
+
+.decor-img {
+  float: left;
+  margin: 5px;
+  max-width: 50%;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  margin: 20px;
+}
+
+.column p {
+  margin: 5px;
+  padding: 6px;
+}
+
+.clear {
+  clear: both;
+}
