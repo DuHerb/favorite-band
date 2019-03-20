@@ -1,0 +1,9 @@
+header {
+  background-color: lightblue;
+}
+
+.sidebar {
+  float: right;
+  margin: 5px 20px;
+  background-color: lightblue;
+}
