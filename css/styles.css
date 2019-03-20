@@ -4,17 +4,21 @@ header {
 
 .sidebar {
   float: right;
+  border: 5px solid green;
+  padding: 10px;
   margin: 5px 20px;
   background-color: lightblue;
 }
 
 .band-pic {
   float: left;
+  padding: 10px;
   margin: 5px 20px;
 }
 
 .decor-img {
   float: left;
+  padding: 10px;
   margin: 5px;
   max-width: 50%;
 }
